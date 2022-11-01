@@ -8,6 +8,8 @@
 		<version>2.2.1.RELEASE</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
+	
+	<!-- lookup parent from repository -->
 
 	<groupId>com.devsecops</groupId>
 	<artifactId>numeric</artifactId>
