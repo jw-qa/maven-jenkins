@@ -3,6 +3,8 @@ pipeline {
   tools {
         maven "M3" 
    }
+   
+   // added a comment to test jenkins
 
   stages {
       stage('Build Artifact') 
